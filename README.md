@@ -1,8 +1,9 @@
-# Angular Material
-## What is Angular Scematics?
-> Angular Scematics does several things as mentioned below
-1. It adds the Generated Component in Parent Module
-2. It adds the Required Module in Parent Module
+# RxJS
+## These Dependencies are added in this Project?
+1. Angular Material 12.2.2
+2. RxJS 6.6.7
+3. Lodesh 4.17.21
+4. Ajv 6.9.1
 ## What are the Material Scematics availaible to Generate Components
 > There are Several Predefine Angular Material Scematics Availaible.
 1. *ng generate @angular/material:address-form <component-name>*
